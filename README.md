@@ -20,3 +20,7 @@ Para criar repositórios online para compartilhar código ou usar como portifól
 Para fazer cursos online interativos de graça:
 
   https://www.codecademy.com/pt
+
+Documentações de Linguagem
+
+  http://devdocs.io

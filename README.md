@@ -21,6 +21,7 @@ Para fazer cursos online interativos de graça:
 
   https://www.codecademy.com/pt
 
-Documentações de Linguagem
+
+Documentações de Linguagens e Frameworks:
 
   http://devdocs.io
